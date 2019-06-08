@@ -1,7 +1,7 @@
 # Script Preprocessor #
 
 ![status][status-img]
-![version][version-img]
+[![version][version-img]][version-link]
 [![lang: C][lang-c-img]][lang-c-link]
 
 **spp** is a preprocessor for scripts.
